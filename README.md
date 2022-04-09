@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **DieselGaming/DieselGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey! 👋
+I'm DieselJS (Jack), a 15 year old developer and photographer from United Kingdom 👑.
+
+- 🧭 Founder of [BedWarsClub](https://github.com/BedWarsClub), [GiveawayBot](https://thegiveawaybot.com), [WardenBot](https://wardenbot.com) and many other secret little projects.
+
+## Skills
+- 👨‍💻 JavaScript, Java, Python
+- 💽 MySQL, SQL, MongoDB
+- Professional Procrastinator
+- Prefers NodeJS solutions
+- Overpowered backend code for stupidly simple Discord bots
+
+## Contact
+- [hello@dieseljs.com](mailto:hello@dieseljs.com)
+- [DieselJS#1689](https://discordapp.com/channels/@me/414713250832449536/) on Discord
+- [@DieselJS](https://twitter.com/DieselJS1) on Twitter
