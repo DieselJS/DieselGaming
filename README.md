@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Hey! 👋
-I'm DieselJS (Jack), a 15 year old developer and photographer from United Kingdom 👑.
+I'm DieselJS (Jack), a 16-year-old developer and photographer from United Kingdom 👑.
 
-- 🧭 Founder of [BedWarsClub](https://github.com/BedWarsClub), [GiveawayBot](https://thegiveawaybot.com), [WardenBot](https://wardenbot.com) and many other secret little projects.
+- 🧭 Founder of [BedWarsClub](https://github.com/BedWarsClub), [Giftcord](https://giftcord.xyz), [WardenBot](https://wardenbot.com) and many other secret little projects.
 
 ## Skills
 - 👨‍💻 JavaScript, Java, Python
@@ -26,6 +26,7 @@ I'm DieselJS (Jack), a 15 year old developer and photographer from United Kingdo
 - Professional Procrastinator
 - Prefers NodeJS solutions
 - Overpowered backend code for stupidly simple Discord bots
+- Oversleeping
 
 ## Contact
 - [hello@dieseljs.com](mailto:hello@dieseljs.com)
